@@ -7,7 +7,7 @@ export default function Header (){
     return(
        
         <div className="p-3 bg-secondary">
-             <h2>poorunai.com</h2>
+             <h2>E-MART</h2>
              <div className="row justify-content-center pt-3 pb-1">
                 <div className="col-sm-12 col-md-7 col-lg-6 col-xl-5 d-flex">
                     <button className='btn btn-success me-4' onClick={()=>navigate('/')}>Home</button>
